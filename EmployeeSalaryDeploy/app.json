@@ -1,0 +1,7 @@
+{
+  "name": "Employee Salary Prediction App",
+  "description": "A python flask app to deploy the machine learning model to the heroku",
+  "repository": "https://github.com/cgqspider/EmployeeSalaryDeploy.git",
+  "logo": "https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png",
+  "keywords": ["python", "flask"]
+}
