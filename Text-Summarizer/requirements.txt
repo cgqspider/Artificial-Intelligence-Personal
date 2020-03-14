@@ -1,0 +1,13 @@
+click==7.1.1
+decorator==4.4.2
+Flask==1.1.1
+gunicorn==19.10.0
+itsdangerous==1.1.0
+Jinja2==2.11.1
+MarkupSafe==1.1.1
+networkx==2.2
+nltk==3.4.5
+numpy==1.16.6
+singledispatch==3.4.0.3
+six==1.14.0
+Werkzeug==1.0.0
