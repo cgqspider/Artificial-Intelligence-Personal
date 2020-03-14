@@ -7,6 +7,9 @@ It can be done in two steps:
 <h4>step 1:</h4> go to project directory (Create Virtualenv) and type (pip install -r requirements.txt) by using this from requirements.txt pip will install all the necessary dependencies.
 <h4>step 2:</h4> run the application : python app.py
 
+
+<p>Note: This app works similar to this api Service: https://deepai.org/machine-learning-model/summarization
+
 <h1>Deployement :</h1>
 <h5>Just click on deploy button and enjoy the Application</h5>
 <a href="https://heroku.com/deploy?template=https://github.com/cgqspider/Artificial-Intelligence-Personal/tree/master/Text-Summarizer">
