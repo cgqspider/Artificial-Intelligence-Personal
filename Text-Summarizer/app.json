@@ -1,7 +1,7 @@
 {
   "name": "Summarization Flask-APP ",
   "description": "This App makes the summary of Big Paragraphs.",
-  "repository": "https://github.com/cgqspider/EmployeeSalaryDeploy.git",
+  "repository": "https://github.com/cgqspider/Artificial-Intelligence-Personal/tree/master/Text-Summarizer",
   "logo": "https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png",
   "keywords": ["python", "flask"]
 }
